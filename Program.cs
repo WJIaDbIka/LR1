@@ -1,4 +1,4 @@
-﻿using GameClasses;
+using GameClasses;
 class Program
 {
     static void Main()
